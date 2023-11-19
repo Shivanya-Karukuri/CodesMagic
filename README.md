@@ -28,13 +28,6 @@ A weather API (Application Programming Interface) is a tool that allows develope
 into their applications or websites. Weather APIs typically provide real-time or historical weather data for a specific 
 location or region, such as temperature, precipitation, wind speed, and humidity. Open Weather Map API: provides 
 current weather data, hourly and daily forecasts, and historical weather data.
-** CAMPUS PLACEMENT PROCESS **
-
-This project is aimed at developing an online application for the Placement Dept. of the college. The system is an online 
-application that can be accessed throughout the organization and outside as well with proper login provided. This system 
-can be used as an application for the PO (Placement Officer) of the college to manage the student information with regards 
-to placement. Students logging should be able to upload their information in the form of a CV. Visitors/Company 
-representatives logging in may also access/search any information put up by Students
 
 
 ## Let's Connect! 📫
